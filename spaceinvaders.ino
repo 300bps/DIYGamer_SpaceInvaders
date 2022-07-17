@@ -5,6 +5,7 @@
 // Note: To install library, select Sketch->Include Library->Manage Libraries...  and select the "Gamer" library.
 //
 // By: David and Brett Smith
+// License: Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA)
 // 11/26/19
 
 #include "Gamer.h"
